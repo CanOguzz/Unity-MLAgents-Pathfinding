@@ -2,6 +2,7 @@
 # Unity ML-Agents Pathfinding: AI Sphere Navigating to Target
 
 ## Project Description
+Small Demo: https://youtu.be/grlgLt9707I
 
 This Unity project demonstrates a reinforcement learning (RL) agent built using the Unity ML-Agents Toolkit. The goal of the agent, represented as a sphere, is to learn to navigate toward a target on a platform while avoiding obstacles. The project showcases how an AI can learn pathfinding behaviors by receiving rewards and penalties based on its actions.
 
